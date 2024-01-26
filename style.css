@@ -1,0 +1,13 @@
+h2{
+    line-height: 20px;
+    color: blueviolet;
+
+}
+.display img{
+
+    border: 40rem;
+    background-image: cover;
+    border-radius: 1.85rem;
+    border-color: blueviolet;
+    
+}
