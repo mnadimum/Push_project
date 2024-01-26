@@ -18,3 +18,12 @@ h2{
 
 
 }
+.zuck-banner{
+    border-image: auto;
+    background: url(./licensed-image.jpeg);
+    display: flexbox;
+    background-size: cover;
+    margin-top: 4rem;
+    margin-bottom: 1.25rem;
+   background-position: center;
+}
